@@ -1,2 +1,2 @@
 # SeveroBOT
-A discord bot written in NodeJs.
+A discord bot written in NodeJs + Discord API.
